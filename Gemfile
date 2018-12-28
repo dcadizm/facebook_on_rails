@@ -30,6 +30,11 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
+# agregamos simple_form
+gem 'simple_form'
+  # no olivdes ejecutar un bundle install 
+
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
